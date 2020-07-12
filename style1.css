@@ -1,0 +1,133 @@
+/* first part */
+.nav-item{
+    padding: 0px 15px;
+}
+
+.button{
+    background-color: #21B573;
+    /* background-image: linear-gradient(to bottom,#21B573 , #c0ff13a9 100%); */
+  
+    border: none;
+    border-radius: 33px;
+    padding: 0 20px;
+}
+
+/* 2nd part */
+
+.button2{
+    background-color: #21B573;;
+    border: none;
+    border-radius: 33px;
+    padding: 12px 20px;
+    color: white;
+}
+.container{
+    margin-bottom: 100px;
+}
+
+.bg-color{
+    background-color: #F0FFF0;
+}
+
+/* 3rd part */
+
+#main-1 img{
+    margin-bottom: 12px;
+    width: 66px;
+    height: 85px;
+}
+#main-2 img{
+    margin-bottom: 12px;
+    width: 80px;
+    height: 82px;
+}
+#main-3 img{
+    margin-bottom: 12px;
+    width: 82px;
+    height: 84px;
+}
+#main-4 img{
+    margin-bottom: 12px;
+    width: 74px;
+    height: 85px;
+}
+.maintain{
+    text-align: center;
+    margin-top: 26px;
+    background-color: #f4fff4;
+    width: 250px;
+    height: 260px;
+    padding-top: 60px;
+    margin-bottom: 35px;
+}
+.maintain:hover{
+    box-shadow: 5px 5px 30px lightgrey;
+    /* background-color: blue;  */
+}
+
+/* 4th part */
+.card-footer{
+    border-top:none;
+    background-color: white;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 30px lightblue;
+}
+
+/* 5th part */
+.pos {
+    position: relative;
+    left: 200px;
+}
+.footer-area{
+    background-color: #282531;
+    width: 100%;
+    height: 320px;
+    color: white;
+}
+
+/* 6th part */
+.footer-area{
+    background-color: #282531;
+    width: 100%;
+    height: 320px;
+}
+.part-1{
+    color: #C5C4C7;
+    float: left;
+    width: 35%;
+}
+.part-2{
+    color: #C5C4C7;
+    float: right;
+    width: 21%;
+    padding-left: 80px;
+}
+.part-3{
+    color: #C5C4C7;
+    float: right;
+    width: 21%;
+    padding-left: 80px;
+}
+.part-4{
+    color: #C5C4C7;
+    float: right;
+    width: 21%;
+    padding-left: 90px;
+}
+.foot-cntn{
+    padding-top: 50px;
+}
+.copyright{
+    color: #C5C4C7;
+    text-align: center;
+    background-color: #282531;
+    padding-bottom: 25px;
+    
+}
+.bold-cntn{
+    font-size: 18px;
+    font-weight: bold;
+    color: white;
+}
